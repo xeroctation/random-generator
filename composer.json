@@ -1,0 +1,14 @@
+{
+    "name": "xeroctation/random_generator",
+    "description": "Just generates random things",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Islombek Kosimov",
+            "email": "umidakosimova.uk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
