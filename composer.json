@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Xeroctation\\Random\\Providers\\RandomServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Xeroctation\\Random\\": "src/"
+        }
+    }
 }
