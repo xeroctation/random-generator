@@ -1,6 +1,6 @@
 <?php
 
-namespace Xeroctation\Random\Controllers;
+namespace Xeroctation\Random\Http\Controllers;
 
 class Random{
     function generateRandomString($length = 10) {
